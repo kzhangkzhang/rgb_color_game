@@ -1,0 +1,19 @@
+{
+  "name": "colorgameproject",
+  "version": "1.0.0",
+  "description": "RGB color game, HTML, CSS, Javascript",
+  "main": "Kevin_colorGame.js",
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kzhangkzhang/rgb_color_game.git"
+  },
+  "author": "Kevin Zhang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kzhangkzhang/rgb_color_game/issues"
+  },
+  "homepage": "https://github.com/kzhangkzhang/rgb_color_game/Kevin_colorGame.html"
+}
